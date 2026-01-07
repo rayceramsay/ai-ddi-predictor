@@ -2,9 +2,7 @@
 ![Backend Coverage](.github/badges/backend-coverage.svg)
 ![Data Pipelines Coverage](.github/badges/data-pipelines-coverage.svg)
 
-# AIDoctors
-
-Your medical first point of contact
+# AI DDI Predictor (AIDoctors)
 
 ## 🌐 Live Application
 
@@ -12,7 +10,7 @@ Your medical first point of contact
 
 ## 📋 Overview
 
-AIDoctors is an AI-powered drug-drug interaction (DDI) prediction system designed to help healthcare professionals identify potential adverse drug interactions. The platform leverages machine learning models trained on real-world clinical data to provide risk assessments when prescribing multiple medications.
+AI DDI Predictor (AIDoctors) is an AI-powered drug-drug interaction (DDI) prediction system designed to help healthcare professionals identify potential adverse drug interactions. The platform leverages machine learning models trained on real-world clinical data to provide risk assessments when prescribing multiple medications.
 
 ### Key Features
 
@@ -176,7 +174,7 @@ This project is licensed under the terms specified in [LICENSE](LICENSE).
 
 ## 👥 Contributors
 
-Developed by the AIDoctors team at University of Toronto.
+Developed by the AIDoctors team at the University of Toronto.
 
 ## 🙋 Support
 
