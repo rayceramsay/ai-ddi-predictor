@@ -4,10 +4,6 @@
 
 # AI DDI Predictor (AIDoctors)
 
-## 🌐 Live Application
-
-**Access the application:** [https://dsoko2ogrj808.cloudfront.net](https://dsoko2ogrj808.cloudfront.net)
-
 ## 📋 Overview
 
 AI DDI Predictor (AIDoctors) is an AI-powered drug-drug interaction (DDI) prediction system designed to help healthcare professionals identify potential adverse drug interactions. The platform leverages machine learning models trained on real-world clinical data to provide risk assessments when prescribing multiple medications.
